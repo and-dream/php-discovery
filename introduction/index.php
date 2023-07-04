@@ -224,7 +224,7 @@
     //-----------------------------------------------------
     echo '<h2>Les tableaux</h2>';
     //----------------------------------------------------
-    // Un tableau de données ARRAY est déclaré comme une variable améliorée dans laquelle on stocke une multitude de valeurs. Ces valeurs peuvent être de n'importe quel type et possèdent un indice par défat dont la numérotation commence à 0.
+    // Un tableau de données ARRAY est déclaré comme une variable améliorée dans laquelle on stocke une multitude de valeurs. Ces valeurs peuvent être de n'importe quel type et possèdent un indice par défaut dont la numérotation commence à 0.
 
     $liste = ['France', 'Italie', 'Espagne','Portugal'];
         echo $liste[3];
